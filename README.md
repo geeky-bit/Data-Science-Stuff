@@ -13,7 +13,8 @@ https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md 
 (SQL, Python, coding) \
 https://github.com/alexeygrigorev/data-science-interviews/blob/master/technical.md
 
-
+## Books (R - understand concepts)
+https://daviddalpiaz.github.io/appliedstats/applied_statistics.pdf
 
 
 ## Concepts
