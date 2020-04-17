@@ -7,7 +7,7 @@ https://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.p
 Best Book (If you got time) \
 http://julio.staff.ipb.ac.id/files/2015/02/Ross_8th_ed_English.pdf
 
-### All distriutions
+### All distributions
 http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
 https://medium.com/@srowen/common-probability-distributions-347e6b945ce4
 
