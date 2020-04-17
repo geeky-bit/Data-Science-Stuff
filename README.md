@@ -15,5 +15,5 @@ https://github.com/zhiqiangzhongddu/Data-Science-Interview-Questions-and-Answers
 
 ## Concepts
 Markov Chains \
-https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf
+https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf \
 https://vknight.org/OR_Methods/Markov_Chains/Markov_Chains_Exercise_Sheet-Solutions.pdf
