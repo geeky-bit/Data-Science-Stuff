@@ -1,6 +1,12 @@
 # Data-Science-Stuff
 
 ## Stats & Probability
+Pre-reqs
+https://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.pdf
+
+Best Book (If you got time) \
+http://julio.staff.ipb.ac.id/files/2015/02/Ross_8th_ed_English.pdf
+
 ### All distriutions
 http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
 https://medium.com/@srowen/common-probability-distributions-347e6b945ce4
@@ -13,7 +19,8 @@ https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md 
 (SQL, Python, coding) \
 https://github.com/alexeygrigorev/data-science-interviews/blob/master/technical.md
 
-## Books (R - understand concepts)
+## Books 
+(R - understand concepts) \
 https://daviddalpiaz.github.io/appliedstats/applied_statistics.pdf
 
 
