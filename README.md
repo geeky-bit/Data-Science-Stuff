@@ -3,7 +3,7 @@
 ## Stats & Probability
 ### All distriutions
 http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
-
+https://medium.com/@srowen/common-probability-distributions-347e6b945ce4
 
 
 ## General Questions
