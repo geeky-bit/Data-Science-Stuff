@@ -8,9 +8,9 @@ http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
 
 ## General Questions
 https://github.com/zhiqiangzhongddu/Data-Science-Interview-Questions-and-Answers-General- \
-(linear models, trees, neural networks and others)
+(linear models, trees, neural networks and others) \
 https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md \
-(SQL, Python, coding)
+(SQL, Python, coding) \
 https://github.com/alexeygrigorev/data-science-interviews/blob/master/technical.md
 
 
