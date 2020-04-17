@@ -1,7 +1,7 @@
 # Data-Science-Stuff
 
 ## Stats & Probability
-Pre-reqs
+Pre-reqs \
 https://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.pdf
 
 Best Book (If you got time) \
