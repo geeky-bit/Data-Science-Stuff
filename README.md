@@ -2,7 +2,7 @@
 
 ## Stats & Probability
 
-# Fair & Unfair coin
+Fair & Unfair coin
 https://www.codechef.com/wiki/tutorial-expectation
 
 Pre-reqs \
