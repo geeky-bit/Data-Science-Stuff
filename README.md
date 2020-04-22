@@ -1,6 +1,10 @@
 # Data-Science-Stuff
 
 ## Stats & Probability
+
+# Fair & Unfair coin
+https://www.codechef.com/wiki/tutorial-expectation
+
 Pre-reqs \
 https://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.pdf
 
