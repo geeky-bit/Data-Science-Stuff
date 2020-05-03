@@ -29,6 +29,9 @@ https://daviddalpiaz.github.io/appliedstats/applied_statistics.pdf
 
 
 ## Concepts
+Bayesian modeling complete guide \
+https://github.com/fonnesbeck/Bayes_Computing_Course
+
 Markov Chains \
 https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf \
 https://vknight.org/OR_Methods/Markov_Chains/Markov_Chains_Exercise_Sheet-Solutions.pdf \
