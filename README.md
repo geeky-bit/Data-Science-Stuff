@@ -1,5 +1,8 @@
 # Data-Science-Stuff
 
+## Deep Learning book
+http://d2l.ai/
+
 ## Stats & Probability
 
 Fair & Unfair coin \
