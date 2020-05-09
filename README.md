@@ -39,6 +39,12 @@ https://daviddalpiaz.github.io/appliedstats/applied_statistics.pdf
 Bayesian modeling complete guide \
 https://github.com/fonnesbeck/Bayes_Computing_Course
 
+A/B testing \
+[-] https://www.udacity.com/course/ab-testing--ud257
+[-] https://github.com/thomastt2020/Udacity-A-B-Test/blob/master/Analyze_ab_test_results_notebook.ipynb
+[-] https://hbr.org/2020/03/productive-innovation#avoid-the-pitfalls-of-a-b-testing
+
+
 Markov Chains \
 https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf \
 https://vknight.org/OR_Methods/Markov_Chains/Markov_Chains_Exercise_Sheet-Solutions.pdf \
