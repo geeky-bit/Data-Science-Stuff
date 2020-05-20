@@ -39,6 +39,9 @@ https://daviddalpiaz.github.io/appliedstats/applied_statistics.pdf
 Bayesian modeling complete guide \
 https://github.com/fonnesbeck/Bayes_Computing_Course
 
+PGM/Bayesian Nets \
+https://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html
+
 A/B testing \
 [-] https://www.udacity.com/course/ab-testing--ud257
 [-] https://github.com/thomastt2020/Udacity-A-B-Test/blob/master/Analyze_ab_test_results_notebook.ipynb
