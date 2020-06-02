@@ -30,6 +30,9 @@ https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md 
 (SQL, Python, coding) \
 https://github.com/alexeygrigorev/data-science-interviews/blob/master/technical.md
 
+## Ultimate SQL
+http://www.silota.com/docs/recipes/sql-histogram-summary-frequency-distribution.html
+
 ## Books 
 (R - understand concepts) \
 https://daviddalpiaz.github.io/appliedstats/applied_statistics.pdf
