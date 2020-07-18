@@ -38,12 +38,15 @@ http://www.silota.com/docs/recipes/sql-histogram-summary-frequency-distribution.
 https://daviddalpiaz.github.io/appliedstats/applied_statistics.pdf
 
 
-## Concepts
+## Bayesian Concepts
 Bayesian modeling complete guide \
 https://github.com/fonnesbeck/Bayes_Computing_Course
 
 PGM/Bayesian Nets \
 https://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html
+
+Multilevel modeling using Bayesian methods \
+https://nbviewer.ipython.org/github/fonnesbeck/multilevel_modeling/blob/master/multilevel_modeling.ipynb
 
 A/B testing \
 [-] https://www.udacity.com/course/ab-testing--ud257
@@ -55,3 +58,7 @@ Markov Chains \
 https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf \
 https://vknight.org/OR_Methods/Markov_Chains/Markov_Chains_Exercise_Sheet-Solutions.pdf \
 http://web.math.ku.dk/~susanne/kursusstokproc/ProblemsMarkovChains.pdf * No answers
+
+Additional part: \
+INTERESTING PROBLEMS: \
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.674.1678&rep=rep1&type=pdf \ 
