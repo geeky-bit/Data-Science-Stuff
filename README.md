@@ -1,7 +1,8 @@
 # Data-Science-Stuff
 
 ## Deep Learning book
-http://d2l.ai/
+http://d2l.ai/ \
+https://montreal.ai/ai4all.pdf?fbclid=IwAR0lcuy46muQ0-SmwgfP34WBRoSP8os2qi4eeR8kex_68Nh1aTJndfpIUgk
 
 ## Stats & Probability
 
