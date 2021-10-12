@@ -6,6 +6,9 @@ https://montreal.ai/ai4all.pdf?fbclid=IwAR0lcuy46muQ0-SmwgfP34WBRoSP8os2qi4eeR8k
 
 ## Stats & Probability
 
+Quick overview and calculator : \
+https://home.ubalt.edu/ntsbarsh/business-stat/otherapplets/ForecaSmo.htm
+
 Fair & Unfair coin \
 https://www.codechef.com/wiki/tutorial-expectation
 
