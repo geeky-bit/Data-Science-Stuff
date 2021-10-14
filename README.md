@@ -17,7 +17,7 @@ https://www.gamblingsites.com/blog/14-gambling-probability-examples-14437/ \
 https://people.math.umass.edu/~lr7q/ps_files/teaching/math456/Week5.pdf
 
 Casual Inference : \
-
+https://www.linkedin.com/posts/leihuaye_experimentation-causalinference-datascience-activity-6852331407507824640-zsPW
 
 Pre-reqs \
 https://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.pdf
