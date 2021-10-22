@@ -23,7 +23,7 @@ Pre-reqs \
 https://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.pdf
 
 Best Book (If you got time) \
-http://julio.staff.ipb.ac.id/files/2015/02/Ross_8th_ed_English.pdf
+https://github.com/geeky-bit/Data-Science-Stuff/blob/d8b8a5956cb3f0c73ebae3d6edc7506818674411/Prob_Stats_Ross_8th_ed_English.pdf
 
 ### All distributions
 http://www.math.wm.edu/~leemis/chart/UDR/UDR.html \
