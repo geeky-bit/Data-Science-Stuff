@@ -43,7 +43,7 @@ http://www.silota.com/docs/recipes/sql-histogram-summary-frequency-distribution.
 ## Books 
 (R - understand concepts) \
 https://daviddalpiaz.github.io/appliedstats/applied_statistics.pdf
-
+https://www.crumplab.com/statistics/ -- Awesome book
 
 ## Bayesian Concepts
 Bayesian modeling complete guide \
