@@ -52,6 +52,11 @@ https://github.com/fonnesbeck/Bayes_Computing_Course
 PGM/Bayesian Nets \
 https://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html
 
+Deep Generative Models \
+https://deepgenerativemodels.github.io/notes/index.html \
+https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html
+
+
 Multilevel modeling using Bayesian methods \
 https://nbviewer.ipython.org/github/fonnesbeck/multilevel_modeling/blob/master/multilevel_modeling.ipynb
 
