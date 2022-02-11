@@ -52,18 +52,24 @@ https://github.com/fonnesbeck/Bayes_Computing_Course
 PGM/Bayesian Nets \
 https://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html
 
-Deep Generative Models \
-https://deepgenerativemodels.github.io/notes/index.html \
-https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html
-
-
 Multilevel modeling using Bayesian methods \
 https://nbviewer.ipython.org/github/fonnesbeck/multilevel_modeling/blob/master/multilevel_modeling.ipynb
 
+## Experimentation
 A/B testing \
 https://www.udacity.com/course/ab-testing--ud257 \
 https://github.com/thomastt2020/Udacity-A-B-Test/blob/master/Analyze_ab_test_results_notebook.ipynb \
 https://hbr.org/2020/03/productive-innovation#avoid-the-pitfalls-of-a-b-testing
+
+## MLops
+https://chicagodatascience.github.io/MLOps/logistics/ \
+https://madewithml.com/ \
+https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/ \
+
+
+Deep Generative Models \
+https://deepgenerativemodels.github.io/notes/index.html \
+https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html
 
 
 Markov Chains \
