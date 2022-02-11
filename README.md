@@ -64,7 +64,7 @@ https://hbr.org/2020/03/productive-innovation#avoid-the-pitfalls-of-a-b-testing
 ## MLops
 https://chicagodatascience.github.io/MLOps/logistics/ \
 https://madewithml.com/ \
-https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/ \
+https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/
 - Notes -- https://github.com/kennethleungty/MLOps-Specialization-Notes 
 
 Deep Generative Models \
