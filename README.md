@@ -75,8 +75,8 @@ https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.htm
 Markov Chains \
 https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf \
 https://vknight.org/OR_Methods/Markov_Chains/Markov_Chains_Exercise_Sheet-Solutions.pdf \
-http://web.math.ku.dk/~susanne/kursusstokproc/ProblemsMarkovChains.pdf * No answers
+http://web.math.ku.dk/~susanne/kursusstokproc/ProblemsMarkovChains.pdf *No answers
 
 Additional part: \
 INTERESTING PROBLEMS: \
-https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.674.1678&rep=rep1&type=pdf \ 
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.674.1678&rep=rep1&type=pdf
