@@ -10,8 +10,8 @@ Quick overview and calculator : \
 https://home.ubalt.edu/ntsbarsh/business-stat/otherapplets/ForecaSmo.htm
 
 Overview and Quick analysis: \
-[-]https://mgimond.github.io/Stats-in-R/CI.html
-[-]https://www.statsmodels.org/devel/examples/notebooks/generated/regression_diagnostics.html
+- https://mgimond.github.io/Stats-in-R/CI.html
+- https://www.statsmodels.org/devel/examples/notebooks/generated/regression_diagnostics.html
 
 Fair & Unfair coin \
 https://www.codechef.com/wiki/tutorial-expectation
