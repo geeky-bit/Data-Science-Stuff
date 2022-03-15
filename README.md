@@ -9,16 +9,16 @@ https://montreal.ai/ai4all.pdf?fbclid=IwAR0lcuy46muQ0-SmwgfP34WBRoSP8os2qi4eeR8k
 Quick overview and calculator : \
 https://home.ubalt.edu/ntsbarsh/business-stat/otherapplets/ForecaSmo.htm
 
-Overview and Quick analysis: \
+Overview and Quick analysis:
 - https://mgimond.github.io/Stats-in-R/CI.html
 - https://www.statsmodels.org/devel/examples/notebooks/generated/regression_diagnostics.html
 
 Fair & Unfair coin \
 https://www.codechef.com/wiki/tutorial-expectation
 
-Expected payout and gambling problems:\
-https://www.gamblingsites.com/blog/14-gambling-probability-examples-14437/ \
-https://people.math.umass.edu/~lr7q/ps_files/teaching/math456/Week5.pdf
+Expected payout and gambling problems:
+- https://www.gamblingsites.com/blog/14-gambling-probability-examples-14437/
+- https://people.math.umass.edu/~lr7q/ps_files/teaching/math456/Week5.pdf
 
 Casual Inference : \
 https://www.linkedin.com/posts/leihuaye_experimentation-causalinference-datascience-activity-6852331407507824640-zsPW
@@ -30,8 +30,8 @@ Best Book (If you got time) \
 https://github.com/geeky-bit/Data-Science-Stuff/blob/d8b8a5956cb3f0c73ebae3d6edc7506818674411/Prob_Stats_Ross_8th_ed_English.pdf
 
 ### All distributions
-http://www.math.wm.edu/~leemis/chart/UDR/UDR.html \
-https://medium.com/@srowen/common-probability-distributions-347e6b945ce4
+- http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
+- https://medium.com/@srowen/common-probability-distributions-347e6b945ce4
 
 
 ## General Questions
