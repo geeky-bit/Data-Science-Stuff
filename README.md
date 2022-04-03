@@ -10,6 +10,7 @@ Quick overview and calculator : \
 https://home.ubalt.edu/ntsbarsh/business-stat/otherapplets/ForecaSmo.htm
 
 Overview and Quick analysis:
+- https://www.scribbr.com/category/statistics/
 - https://mgimond.github.io/Stats-in-R/CI.html
 - https://www.statsmodels.org/devel/examples/notebooks/generated/regression_diagnostics.html
 
