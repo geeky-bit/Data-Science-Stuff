@@ -13,7 +13,7 @@ Overview and Quick analysis:
 - https://www.scribbr.com/category/statistics/
 - https://mgimond.github.io/Stats-in-R/CI.html
 - https://www.statsmodels.org/devel/examples/notebooks/generated/regression_diagnostics.html
-
+- http://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/3-4-UnivarMLE.html
 Fair & Unfair coin \
 https://www.codechef.com/wiki/tutorial-expectation
 
