@@ -75,9 +75,9 @@ https://www.deeplearning.ai/program/machine-learning-engineering-for-production-
 - Notes -- https://github.com/kennethleungty/MLOps-Specialization-Notes 
 
 Deep Generative Models \
-https://deepgenerativemodels.github.io/notes/index.html \
-https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html
-
+- https://deepgenerativemodels.github.io/notes/index.html \
+- https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html \
+- VAEs aawesome - https://jxmo.io/posts/variational-autoencoders
 
 Markov Chains \
 https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf \
