@@ -63,9 +63,9 @@ Multilevel modeling using Bayesian methods \
 https://nbviewer.ipython.org/github/fonnesbeck/multilevel_modeling/blob/master/multilevel_modeling.ipynb
 
 ## Experimentation
-A/B testing \
-- https://www.udacity.com/course/ab-testing--ud257 \
-- https://github.com/thomastt2020/Udacity-A-B-Test/blob/master/Analyze_ab_test_results_notebook.ipynb \
+A/B testing
+- https://www.udacity.com/course/ab-testing--ud257
+- https://github.com/thomastt2020/Udacity-A-B-Test/blob/master/Analyze_ab_test_results_notebook.ipynb
 - https://hbr.org/2020/03/productive-innovation#avoid-the-pitfalls-of-a-b-testing
 
 MLOps
