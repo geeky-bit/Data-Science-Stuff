@@ -68,15 +68,16 @@ https://www.udacity.com/course/ab-testing--ud257 \
 https://github.com/thomastt2020/Udacity-A-B-Test/blob/master/Analyze_ab_test_results_notebook.ipynb \
 https://hbr.org/2020/03/productive-innovation#avoid-the-pitfalls-of-a-b-testing
 
-## MLops
-https://chicagodatascience.github.io/MLOps/logistics/ \
-https://madewithml.com/ \
-https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/
+MLOps
+- https://huyenchip.com/mlops/
+- https://chicagodatascience.github.io/MLOps/logistics/
+- https://madewithml.com/
+- https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/
 - Notes -- https://github.com/kennethleungty/MLOps-Specialization-Notes 
 
-Deep Generative Models \
-- https://deepgenerativemodels.github.io/notes/index.html \
-- https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html \
+Deep Generative Models
+- https://deepgenerativemodels.github.io/notes/index.html
+- https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html
 - VAEs aawesome - https://jxmo.io/posts/variational-autoencoders
 
 Markov Chains \
