@@ -64,9 +64,9 @@ https://nbviewer.ipython.org/github/fonnesbeck/multilevel_modeling/blob/master/m
 
 ## Experimentation
 A/B testing \
-https://www.udacity.com/course/ab-testing--ud257 \
-https://github.com/thomastt2020/Udacity-A-B-Test/blob/master/Analyze_ab_test_results_notebook.ipynb \
-https://hbr.org/2020/03/productive-innovation#avoid-the-pitfalls-of-a-b-testing
+- https://www.udacity.com/course/ab-testing--ud257 \
+- https://github.com/thomastt2020/Udacity-A-B-Test/blob/master/Analyze_ab_test_results_notebook.ipynb \
+- https://hbr.org/2020/03/productive-innovation#avoid-the-pitfalls-of-a-b-testing
 
 MLOps
 - https://huyenchip.com/mlops/
@@ -78,7 +78,7 @@ MLOps
 Deep Generative Models
 - https://deepgenerativemodels.github.io/notes/index.html
 - https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html
-- VAEs aawesome - https://jxmo.io/posts/variational-autoencoders
+- VAEs awesome - https://jxmo.io/posts/variational-autoencoders
 
 Markov Chains \
 https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf \
