@@ -95,10 +95,10 @@ Deep Generative Models
 - https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html
 - VAEs awesome - https://jxmo.io/posts/variational-autoencoders
 
-Markov Chains \
-https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf \
-https://vknight.org/OR_Methods/Markov_Chains/Markov_Chains_Exercise_Sheet-Solutions.pdf \
-http://web.math.ku.dk/~susanne/kursusstokproc/ProblemsMarkovChains.pdf *No answers
+Markov Chains:
+- https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf \
+- https://vknight.org/OR_Methods/Markov_Chains/Markov_Chains_Exercise_Sheet-Solutions.pdf \
+- http://web.math.ku.dk/~susanne/kursusstokproc/ProblemsMarkovChains.pdf *No answers
 
 Additional part: \
 INTERESTING PROBLEMS: \
