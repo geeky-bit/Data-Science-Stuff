@@ -50,11 +50,11 @@ Pre-reqs:
 
 
 ## General Questions
-https://github.com/zhiqiangzhongddu/Data-Science-Interview-Questions-and-Answers-General- \
+- https://github.com/zhiqiangzhongddu/Data-Science-Interview-Questions-and-Answers-General- \
 (linear models, trees, neural networks and others) \
-https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md \
+- https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md \
 (SQL, Python, coding) \
-https://github.com/alexeygrigorev/data-science-interviews/blob/master/technical.md
+- https://github.com/alexeygrigorev/data-science-interviews/blob/master/technical.md
 
 ## Ultimate SQL
 - http://www.silota.com/docs/recipes/sql-histogram-summary-frequency-distribution.html
