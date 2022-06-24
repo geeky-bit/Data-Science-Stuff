@@ -46,7 +46,8 @@ Casual Inference:
 Pre-reqs:
 - https://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.pdf
 
-
+Challenges in ML modeling:
+ - Bias -- https://towardsdatascience.com/the-many-faces-of-bias-c515cd483db4
 
 
 ## General Questions
