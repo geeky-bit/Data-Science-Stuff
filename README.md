@@ -26,6 +26,14 @@ Expected payout and gambling problems:
 - https://www.gamblingsites.com/blog/14-gambling-probability-examples-14437/
 - https://people.math.umass.edu/~lr7q/ps_files/teaching/math456/Week5.pdf
 
+Best Book (If you got time) \
+https://github.com/geeky-bit/Data-Science-Stuff/blob/d8b8a5956cb3f0c73ebae3d6edc7506818674411/Prob_Stats_Ross_8th_ed_English.pdf
+
+### All distributions
+- http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
+- https://medium.com/@srowen/common-probability-distributions-347e6b945ce4
+
+
 ## ML part
 Nice visual ML and in depth
 
@@ -38,12 +46,7 @@ https://www.linkedin.com/posts/leihuaye_experimentation-causalinference-datascie
 Pre-reqs \
 https://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.pdf
 
-Best Book (If you got time) \
-https://github.com/geeky-bit/Data-Science-Stuff/blob/d8b8a5956cb3f0c73ebae3d6edc7506818674411/Prob_Stats_Ross_8th_ed_English.pdf
 
-### All distributions
-- http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
-- https://medium.com/@srowen/common-probability-distributions-347e6b945ce4
 
 
 ## General Questions
