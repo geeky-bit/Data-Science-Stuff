@@ -9,7 +9,7 @@ https://montreal.ai/ai4all.pdf?fbclid=IwAR0lcuy46muQ0-SmwgfP34WBRoSP8os2qi4eeR8k
 Quick overview and calculator : \
 https://home.ubalt.edu/ntsbarsh/business-stat/otherapplets/ForecaSmo.htm
 
-Really good high-level with examples
+Really good high-level with examples :
 https://www.probabilitycourse.com/
 
 Overview and Quick analysis:
