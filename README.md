@@ -6,7 +6,7 @@
 
 ## Stats & Probability
 
-Quick overview and calculator: \
+Quick overview and calculator:\
 - https://home.ubalt.edu/ntsbarsh/business-stat/otherapplets/ForecaSmo.htm
 
 Really good high-level with examples: \
