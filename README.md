@@ -1,35 +1,35 @@
 # Data-Science-Stuff
 
 ## Deep Learning book
-http://d2l.ai/ \
-https://montreal.ai/ai4all.pdf?fbclid=IwAR0lcuy46muQ0-SmwgfP34WBRoSP8os2qi4eeR8kex_68Nh1aTJndfpIUgk
+- http://d2l.ai/
+- https://montreal.ai/ai4all.pdf?fbclid=IwAR0lcuy46muQ0-SmwgfP34WBRoSP8os2qi4eeR8kex_68Nh1aTJndfpIUgk
 
 ## Stats & Probability
 
-Quick overview and calculator : \
-https://home.ubalt.edu/ntsbarsh/business-stat/otherapplets/ForecaSmo.htm
+Quick overview and calculator: \
+- https://home.ubalt.edu/ntsbarsh/business-stat/otherapplets/ForecaSmo.htm
 
-Really good high-level with examples : \
-https://www.probabilitycourse.com/
+Really good high-level with examples: \
+- https://www.probabilitycourse.com/
 
-Overview and Quick analysis:
+Overview and Quick analysis: \
 - https://www.scribbr.com/category/statistics/
 - https://mgimond.github.io/Stats-in-R/CI.html
 - https://www.statsmodels.org/devel/examples/notebooks/generated/regression_diagnostics.html
 - http://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/3-4-UnivarMLE.html
 
 
-Fair & Unfair coin \
-https://www.codechef.com/wiki/tutorial-expectation
+Fair & Unfair coin: \
+- https://www.codechef.com/wiki/tutorial-expectation
 
-Expected payout and gambling problems:
+Expected payout and gambling problems: \
 - https://www.gamblingsites.com/blog/14-gambling-probability-examples-14437/
 - https://people.math.umass.edu/~lr7q/ps_files/teaching/math456/Week5.pdf
 
-Best Book (If you got time) \
-https://github.com/geeky-bit/Data-Science-Stuff/blob/d8b8a5956cb3f0c73ebae3d6edc7506818674411/Prob_Stats_Ross_8th_ed_English.pdf
+Best Book (If you got time): \
+- https://github.com/geeky-bit/Data-Science-Stuff/blob/d8b8a5956cb3f0c73ebae3d6edc7506818674411/Prob_Stats_Ross_8th_ed_English.pdf
 
-### All distributions
+\b\u{All distributions}
 - http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
 - https://medium.com/@srowen/common-probability-distributions-347e6b945ce4
 
