@@ -6,45 +6,45 @@
 
 ## Stats & Probability
 
-Quick overview and calculator:\
+Quick overview and calculator:
 - https://home.ubalt.edu/ntsbarsh/business-stat/otherapplets/ForecaSmo.htm
 
-Really good high-level with examples: \
+Really good high-level with examples:
 - https://www.probabilitycourse.com/
 
-Overview and Quick analysis: \
+Overview and Quick analysis:
 - https://www.scribbr.com/category/statistics/
 - https://mgimond.github.io/Stats-in-R/CI.html
 - https://www.statsmodels.org/devel/examples/notebooks/generated/regression_diagnostics.html
 - http://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/3-4-UnivarMLE.html
 
 
-Fair & Unfair coin: \
+Fair & Unfair coin:
 - https://www.codechef.com/wiki/tutorial-expectation
 
-Expected payout and gambling problems: \
+Expected payout and gambling problems:
 - https://www.gamblingsites.com/blog/14-gambling-probability-examples-14437/
 - https://people.math.umass.edu/~lr7q/ps_files/teaching/math456/Week5.pdf
 
-Best Book (If you got time): \
+Best Book (If you got time):
 - https://github.com/geeky-bit/Data-Science-Stuff/blob/d8b8a5956cb3f0c73ebae3d6edc7506818674411/Prob_Stats_Ross_8th_ed_English.pdf
 
-\b\u{All distributions}
+All distributions:
 - http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
 - https://medium.com/@srowen/common-probability-distributions-347e6b945ce4
 
 
-## ML part
-Nice visual ML and in depth
-
+## Machine Learning part
+Nice visual ML and in depth :
 - https://mlu-explain.github.io/
 - http://uc-r.github.io/
 
-Casual Inference : \
-https://www.linkedin.com/posts/leihuaye_experimentation-causalinference-datascience-activity-6852331407507824640-zsPW
+Casual Inference:
+- https://causalinference.gitlab.io/
+- https://www.linkedin.com/posts/leihuaye_experimentation-causalinference-datascience-activity-6852331407507824640-zsPW
 
-Pre-reqs \
-https://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.pdf
+Pre-reqs:
+- https://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.pdf
 
 
 
@@ -57,7 +57,10 @@ https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md 
 https://github.com/alexeygrigorev/data-science-interviews/blob/master/technical.md
 
 ## Ultimate SQL
-http://www.silota.com/docs/recipes/sql-histogram-summary-frequency-distribution.html
+- http://www.silota.com/docs/recipes/sql-histogram-summary-frequency-distribution.html
+- https://www.stratascratch.com/blog/500-sql-interview-questions-from-real-companies/
+- https://www.interviewquery.com/courses/data-science-course/lessons/sql/1f1c4c1b-43a1-4ac3-8c33-583713b15eb6
+
 
 ## Books 
 (R - understand concepts) \
