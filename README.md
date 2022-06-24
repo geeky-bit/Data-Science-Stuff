@@ -9,6 +9,9 @@ https://montreal.ai/ai4all.pdf?fbclid=IwAR0lcuy46muQ0-SmwgfP34WBRoSP8os2qi4eeR8k
 Quick overview and calculator : \
 https://home.ubalt.edu/ntsbarsh/business-stat/otherapplets/ForecaSmo.htm
 
+Really good high-level with examples
+https://www.probabilitycourse.com/
+
 Overview and Quick analysis:
 - https://www.scribbr.com/category/statistics/
 - https://mgimond.github.io/Stats-in-R/CI.html
@@ -22,6 +25,12 @@ https://www.codechef.com/wiki/tutorial-expectation
 Expected payout and gambling problems:
 - https://www.gamblingsites.com/blog/14-gambling-probability-examples-14437/
 - https://people.math.umass.edu/~lr7q/ps_files/teaching/math456/Week5.pdf
+
+## ML part
+Nice visual ML and in depth
+
+- https://mlu-explain.github.io/
+- http://uc-r.github.io/
 
 Casual Inference : \
 https://www.linkedin.com/posts/leihuaye_experimentation-causalinference-datascience-activity-6852331407507824640-zsPW
