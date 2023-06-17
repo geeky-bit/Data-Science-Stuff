@@ -4,6 +4,7 @@
 - http://d2l.ai/
 - https://montreal.ai/ai4all.pdf?fbclid=IwAR0lcuy46muQ0-SmwgfP34WBRoSP8os2qi4eeR8kex_68Nh1aTJndfpIUgk
 - Datasets \& Models -- https://paperswithcode.com/methods
+- Q \& As -- https://github.com/christianversloot/machine-learning-articles/blob/main/differences-between-autoregressive-autoencoding-and-sequence-to-sequence-models-in-machine-learning.md
 
 
 ## Stats & Probability
